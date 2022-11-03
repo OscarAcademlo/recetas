@@ -25,7 +25,7 @@ description:{
 urlImg:{
     type:DataTypes.STRING,
     validate:{
-        isUrl:true,
+        //isUrl:true,
     },
     field:'url_img'
 },
